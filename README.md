@@ -18,7 +18,7 @@ Drink4You was developed using the following technologies:
 
 ### C# .NET for backend development
 ### Entity Framework and Identity for database management
-### MySQL for database storage
+### Microsoft SQL Server for database storage
 ### React.js for frontend development
 ### MUI for CSS styling
 # Learning Outcomes
