@@ -1,4 +1,4 @@
-# Drink4You
+# Drink4You 🍹
 ![CategotyExample](https://github.com/Mishanschi/Drink4You/blob/misha/Screenshot_1.png)
 Drink4You is an online platform that allows you to browse a variety of drink categories and drinks. You can also add drinks to your favorites and like them. The platform displays information about the drinks such as ingredients and images. Additionally, the website has a login feature that enables users to create accounts, log in, and log out. Admins can also add new drinks to the platform.
 
